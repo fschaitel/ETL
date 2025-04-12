@@ -23,7 +23,7 @@ The application allows you to explore:
 
 ---
 
-![etl](doc/pic.png)
+![etl](docs/pic.png)
 
 ---
 
