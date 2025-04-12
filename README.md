@@ -9,6 +9,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 ![ETL](https://img.shields.io/badge/ETL-Extract--Transform--Load-orange)
 
+![etl](docs/pic.png)
+
 ---
 
 ## 📌 About the Project
@@ -20,10 +22,6 @@ The application allows you to explore:
 - Average prices per brand.
 - Customer satisfaction based on user reviews.
 - Key market metrics (KPIs).
-
----
-
-![etl](docs/pic.png)
 
 ---
 
