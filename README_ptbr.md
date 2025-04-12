@@ -10,6 +10,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 ![ETL](https://img.shields.io/badge/ETL-Extract--Transform--Load-orange)
 
+![etl](docs/pic.png)
+
 ---
 
 ## 📌 Sobre o Projeto
