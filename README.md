@@ -1,5 +1,5 @@
 
-# 📊 Pesquisa de Mercado: Notebooks no Mercado Livre  
+# 📊 WebScraping para Pesquisa de Mercado: Notebooks no Mercado Livre  
 ### 🔎 Pipeline ETL com Web Scraping, SQLite, Pandas e Streamlit  
 **Protótipo desenvolvido na formação "[Jornada de Dados - Pipeline ETL Python](https://suajornadadedados.com.br/)"**
 
