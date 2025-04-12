@@ -3,6 +3,13 @@
 ### 🔎 Pipeline ETL com Web Scraping, SQLite, Pandas e Streamlit  
 **Protótipo desenvolvido na formação "[Jornada de Dados - Pipeline ETL Python](https://suajornadadedados.com.br/)"**
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Scrapy](https://img.shields.io/badge/Scrapy-Web%20Scraping-darkgreen?logo=scrapy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![SQLite](https://img.shields.io/badge/SQLite-Database-07405E?logo=sqlite)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
+![ETL](https://img.shields.io/badge/ETL-Extract--Transform--Load-orange)
+
 ---
 
 ## 📌 Sobre o Projeto
