@@ -23,6 +23,10 @@ The application allows you to explore:
 
 ---
 
+![etl](doc/pic.png)
+
+---
+
 ## ⚙️ Technologies Used
 
 | Tool         | Description |
