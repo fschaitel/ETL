@@ -43,22 +43,27 @@ A aplicação permite explorar:
 ## 🗂️ Estrutura do Projeto
 
 ```
-mercado-livre-notebooks/
+ETL/
 │
-├── coleta/                    # Projeto Scrapy
-│   ├── spiders/
-│   │   └── notebook.py        # Spider para coletar dados de notebooks
-│   ├── __init__.py
-│   ├── items.py
-│   ├── settings.py
 ├── data/                      # Armazenamento local de dados
 │   ├── data.jsonl             # Dados brutos coletados
 │   └── mercadolivre.db        # Banco de dados SQLite com dados limpos
-├── main.py                    # Script de transformação dos dados
-├── app.py                     # Aplicação interativa Streamlit
-├── scrapy.cfg
+├── docs/
+│   ├── tutorial_etl           # Tutorial de ETL
+│   ├── tutorial_etl_en        # Tutorial de ETL em Inglês
+├── src/                       # Projeto
+│   ├── dashboard/
+│   │   └── app.py             # Aplicação interativa Streamlit
+│   ├── extraction             
+│   │   └──scrapy.cfg
+│   │   └── coleta.py
+│   │       └── spiders
+│   │           └── notebook.py # Spider para coletar dados de notebooks
+│   ├── transformLoad
+│   │   └── main.py            # Script de transformação dos dados
 ├── README.md
 └── requirements.txt           # Dependências do projeto
+
 ```
 
 ---
