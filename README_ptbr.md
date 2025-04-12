@@ -139,6 +139,9 @@ streamlit run app.py
 | Samsung | Galaxy Book3                  | SamsungBR  | 3199.00   | 4.8                    |
 | Asus    | Vivobook 15                   | FastStore  | 2799.00   | 4.4                    |
 
+## 📅 Data da Coleta
+
+Os dados foram coletados automaticamente do site Mercado Livre no dia **10 de abril de 2025** utilizando o spider Scrapy.
 
 ---
 
