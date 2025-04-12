@@ -173,3 +173,5 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 For more details, please refer to the [LICENSE](./LICENSE) file.
 
 ---
+
+![certificado](docs/certificado.png)
