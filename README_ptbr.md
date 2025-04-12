@@ -175,3 +175,5 @@ Isso significa que você pode usar, copiar, modificar, mesclar, publicar, distri
 Para mais informações, consulte o arquivo [LICENSE](./LICENSE).
 
 ---
+
+![certificado](docs/certificado.png)
