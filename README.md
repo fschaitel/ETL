@@ -137,6 +137,10 @@ streamlit run app.py
 | Samsung | Galaxy Book3                  | SamsungBR  | 3199.00   | 4.8                    |
 | Asus    | Vivobook 15                   | FastStore  | 2799.00   | 4.4                    |
 
+## 📅 Data Collection Date
+
+The data was automatically collected from the Mercado Livre website on **April 10th, 2025** using a Scrapy spider.
+
 ---
 
 ## 🧑‍🎓 Target Audience
