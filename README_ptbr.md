@@ -147,6 +147,23 @@ Os dados foram coletados automaticamente do site Mercado Livre no dia **10 de ab
 
 ---
 
+## 📊 Indicadores-Chave de Desempenho (KPIs)
+
+Neste projeto, os **KPIs (Key Performance Indicators)** são utilizados para fornecer uma visão geral objetiva e rápida sobre o comportamento do mercado de notebooks no Mercado Livre. Eles permitem compreender padrões, comparar marcas e identificar tendências com base nos dados coletados.
+
+### 🎯 KPIs Apresentados no Dashboard
+
+| Indicador | Descrição |
+|----------|-----------|
+| 🖥️ **Total de Notebooks** | Quantidade total de produtos coletados na amostra. |
+| 🏷️ **Marcas Únicas** | Número de marcas diferentes encontradas. Indica diversidade de oferta. |
+| 💰 **Preço Médio (R$)** | Média dos preços dos notebooks anunciados. Ajuda a entender o posicionamento do mercado. |
+| 🏆 **Marcas mais frequentes** | Marcas com maior presença nas páginas analisadas. Útil para identificar líderes de mercado. |
+| 💵 **Preço médio por marca** | Comparativo de preços médios entre marcas. Pode revelar estratégias de preço. |
+| ⭐ **Satisfação média por marca** | Avaliação média dada pelos consumidores para cada marca. Relevante para insights de qualidade percebida. |
+
+---
+
 ## 🧑‍🎓 Público-Alvo
 
 Este projeto foi idealizado com foco em:
