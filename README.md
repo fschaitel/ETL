@@ -145,6 +145,23 @@ The data was automatically collected from the Mercado Livre website on **April 1
 
 ---
 
+## 📊 Key Performance Indicators (KPIs)
+
+In this project, **KPIs (Key Performance Indicators)** are used to provide an objective and quick overview of the notebook market behavior on Mercado Libre. They help identify patterns, compare brands, and detect trends based on the scraped data.
+
+### 🎯 KPIs Displayed in the Dashboard
+
+| Indicator | Description |
+|-----------|-------------|
+| 🖥️ **Total Notebooks** | Total number of notebook listings collected in the sample. |
+| 🏷️ **Unique Brands** | Number of distinct brands found. Reflects market diversity. |
+| 💰 **Average Price (BRL)** | Mean price of all listed notebooks. Helps understand market pricing. |
+| 🏆 **Top Brands by Frequency** | Brands that appear most frequently. Useful to spot market leaders. |
+| 💵 **Average Price per Brand** | Price comparison between brands. Can reflect pricing strategies. |
+| ⭐ **Average Satisfaction per Brand** | Average customer review score for each brand. Reflects perceived quality. |
+
+---
+
 ## 🧑‍🎓 Target Audience
 
 This project was designed for:
